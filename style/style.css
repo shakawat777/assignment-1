@@ -8,6 +8,7 @@ body {
 
 }
 
+/* Header section start */
 .banner {
     width: 1320px;
     height: 600px;
@@ -17,7 +18,7 @@ body {
 
 .banner img {
     width: 100%;
-    /* display: block; */
+    display: block;
     height: auto;
     margin-top: 50px;
 
@@ -25,13 +26,14 @@ body {
 
 .banner-text {
     position: absolute;
-    top: 250px;
+    top: 200px;
     /* display: flex; */
     align-items: center;
     justify-content: space-between;
     gap: 16px;
 
 }
+
 .banner-text1 {
     color: #FFF;
     text-align: center;
@@ -40,6 +42,7 @@ body {
     margin: auto 530px;
 
 }
+
 .banner-text2 {
     color: #FFF;
     text-align: center;
@@ -47,5 +50,27 @@ body {
     font-weight: 900;
     width: 632px;
     margin: auto 344px;
+}
 
+/* Header section end */
+.text {
+    top: 120px;
+}
+
+.text-1 {
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    /* gap: 120px; */
+   
+}
+
+.text-2 {
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+    
 }
