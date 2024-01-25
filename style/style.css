@@ -53,17 +53,20 @@ body {
 }
 
 /* Header section end */
+
+
+
 .text {
     top: 120px;
+    margin: auto;
 }
 
 .text-1 {
     color: #F00;
     text-align: center;
-    font-size: 88px;
+    font-size: 70px;
     font-weight: 700;
-    /* gap: 120px; */
-   
+    margin-bottom: 48px;
 }
 
 .text-2 {
@@ -71,6 +74,26 @@ body {
     text-align: center;
     font-size: 24px;
     font-weight: 500;
-    margin-top: 48px;
+}
+
+.text-3 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+/* .section-1 img{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+display: flex;
     
+} */
+#img {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: auto 258px;
 }
