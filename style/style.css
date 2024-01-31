@@ -219,9 +219,9 @@ display: flex;
 
 
 
+
 /* Main part-4 start */
 .section-4 {
-    /* width: 1320px; */
     margin-top: 120px;
     background-color: #Fff;
 
@@ -231,13 +231,16 @@ display: flex;
     display: flex;
     justify-content: space-between;
 }
+ .info-titel-1{
+    margin-top: 60px;
+}
 
 .section-4heading {
     color: #F00;
     /* text-align: center; */
     font-size: 24px;
     font-weight: 500;
-
+    margin: 0;
 }
 
 .section-4title {
@@ -245,6 +248,7 @@ display: flex;
     font-size: 48px;
     font-weight: 900;
     text-transform: capitalize;
+    margin: 0;
 }
 
 .section-4description {
@@ -252,6 +256,7 @@ display: flex;
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 400;
+    margin: 22px 0;
 }
 
 .img {
@@ -259,17 +264,18 @@ display: flex;
     height: 250.844px;
     border-radius: 250.844px;
     margin-right: 100px;
-
+    margin-bottom: 100px;
 }
 
 .img-design {
     width: 300px;
     height: 300px;
-    border-radius: 350px;
+    border-radius: 320px;
     border: 15px solid #F00;
     padding: 30px 30px 30px 30px;
+    margin-bottom: 100px;
+    
 }
-
 /* Main part-4 End */
 
 
@@ -284,6 +290,7 @@ display: flex;
     font-size: 24px;
     font-weight: 500;
     text-align: center;
+    margin: 0;
 }
 
 .section-5-titel {
@@ -306,7 +313,7 @@ display: flex;
     font-family: Inter;
     font-size: 20px;
     font-weight: 400;
-    margin: auto 266px;
+    margin: 28px 266px;
 }
 
 .img-1 {
@@ -349,3 +356,16 @@ display: flex;
 
 
 /* Main part-5 End */
+
+
+/* Main part-6 start */
+.banner-6{
+    margin-top: 120px;
+}
+.info-titel-6 h4 , h3 , p{
+    margin: 22px 0;
+}
+
+.info-titel-6 p{
+    width: 735px;
+}
