@@ -384,7 +384,8 @@ p {
 .gap-between {
     margin: 24px 24px 24px 24px;
 }
-.group-img-2{
+
+.group-img-2 {
     width: 424px;
     height: 450px;
     display: flex;
@@ -396,32 +397,37 @@ p {
 
 
 /* Main part-7 start */
-.banner-7{
+.banner-7 {
 
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     margin-top: 120px;
 }
-.mail{
+
+.mail {
     align-items: center;
     position: relative;
     left: 565px;
-   top: 50px;
+    top: 50px;
 }
-.section-7-info{
+
+.section-7-info {
     margin-top: 100px;
 }
-.form{
+
+.form {
     margin: auto 450px;
     display: flex;
 }
-.form input{
+
+.form input {
     font-size: 15px;
     padding: 15px 40px;
     border-bottom-left-radius: 25px;
     border-top-left-radius: 25px;
     border: none;
 }
-.form button{
+
+.form button {
     font-size: 15px;
     padding: 15px 20px;
     border-bottom-right-radius: 25px;
@@ -430,4 +436,45 @@ p {
     border: none;
     margin: 0;
 }
+
 /* Main part-7 End */
+
+/* Footer section */
+.last-banner {
+    background: #070211;
+    height: 650px;
+    margin-top: 120px;
+}
+
+.last-banner-text {
+    display: flex;
+    margin-left: 140px;
+}
+
+.text-design-1 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+    width: 375px;
+    height: 80px;
+    line-height: 40px;
+}
+
+.text-design-2 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+    width: 215px;
+    height: 40px;
+}
+
+.last-banner-design-2 {
+    margin-left: 440px;
+}
+
+.design {
+    border: 1.5px solid #fff;
+    margin-top: 2px;
+}
