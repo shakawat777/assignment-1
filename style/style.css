@@ -442,6 +442,7 @@ p {
 /* Footer section */
 .last-banner {
     background: #070211;
+    max-width: 1320px;
     height: 650px;
     margin-top: 120px;
 }
