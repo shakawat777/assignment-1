@@ -478,3 +478,22 @@ p {
     border: 1.5px solid #fff;
     margin-top: 2px;
 }
+
+.line {
+ 
+    width: 1040px;
+    height: 0;
+    left: 140px;
+    top: 6975.57px;
+}
+
+.icon {
+    margin: 80px 480px;
+    display: flex;
+    width: 64px;
+    height: 64px;
+}
+
+.distance {
+    margin: 10px;
+}
